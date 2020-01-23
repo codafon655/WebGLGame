@@ -1,9 +1,9 @@
 {
 "TOTAL_MEMORY": 268435456,
-"dataUrl": "nnhoo2.data.unityweb",
-"asmCodeUrl": "nnhoo2.asm.code.unityweb",
-"asmMemoryUrl": "nnhoo2.asm.memory.unityweb",
-"asmFrameworkUrl": "nnhoo2.asm.framework.unityweb",
+"dataUrl": "iggu.data.unityweb",
+"asmCodeUrl": "iggu.asm.code.unityweb",
+"asmMemoryUrl": "iggu.asm.memory.unityweb",
+"asmFrameworkUrl": "iggu.asm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
